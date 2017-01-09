@@ -7,3 +7,4 @@ My favorite libre apps for Android mostly but also Linux on desktop. The idea is
 - [Conversations](https://github.com/siacs/Conversations)
 - [Pocket Maps](https://github.com/junjunguo/PocketMaps)
 - [Antena Pod](https://github.com/AntennaPod/AntennaPod)
+- [KeePass](https://github.com/bpellin/keepassdroid)
